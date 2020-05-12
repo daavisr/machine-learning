@@ -8,7 +8,7 @@
 				"questions": ["Kā sauc personu / iestādi?"]			
 			}		
 		],
-		"action": "getWorkingHours(${OBJECT})"
+		"action": "getWorkingHours"
 	},
 	{
 		"name": "SABBATICAL",
@@ -24,6 +24,6 @@
 				"questions": ["Kad beidzas atvaļinājums?"]			
 			}			
 		],
-		"action": "setSabbatical(${START_DATE}, ${END_DATE})"
+		"action": "setSabbatical"
 	}
 ]
