@@ -25,5 +25,5 @@
 			}			
 		],
 		"action": "setSabbatical(${START_DATE}, ${END_DATE})"
-	},
+	}
 ]
