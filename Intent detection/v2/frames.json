@@ -1,0 +1,29 @@
+[
+	{
+		"name": "WORKING_HOURS",
+		"slots": [
+			{
+				"name": "OBJECT",
+				"types": ["person", "org"],
+				"questions": ["Kā sauc personu / iestādi?"]			
+			}		
+		],
+		"action": "getWorkingHours(${OBJECT})"
+	},
+	{
+		"name": "SABBATICAL",
+		"slots": [
+			{
+				"name": "START_DATE",
+				"types": ["date"],
+				"questions": ["Kad sākas atvaļinājums?"]			
+			},
+			{
+				"name": "END_DATE",
+				"types": ["date"],
+				"questions": ["Kad beidzas atvaļinājums?"]			
+			}			
+		],
+		"action": "setSabbatical(${START_DATE}, ${END_DATE})"
+	},
+]
