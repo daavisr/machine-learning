@@ -8,7 +8,7 @@
 				"questions": ["Kā sauc personu / iestādi?"]			
 			}		
 		],
-		"action": "getWorkingHours"
+		"action": "findWorkingHours"
 	},
 	{
 		"name": "SABBATICAL",
