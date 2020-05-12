@@ -15,15 +15,16 @@
 		"slots": [
 			{
 				"name": "START_DATE",
-				"types": ["date"],
+				"types": ["time"],
 				"questions": ["Kad sākas atvaļinājums?"]			
 			},
 			{
 				"name": "END_DATE",
-				"types": ["date"],
+				"types": ["time"],
 				"questions": ["Kad beidzas atvaļinājums?"]			
 			}			
 		],
 		"action": "setSabbatical"
 	}
+]
 ]
