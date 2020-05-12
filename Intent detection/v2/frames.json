@@ -4,7 +4,7 @@
 		"slots": [
 			{
 				"name": "OBJECT",
-				"types": ["person", "org"],
+				"types": ["person", "organization"],
 				"questions": ["Kā sauc personu / iestādi?"]			
 			}		
 		],
