@@ -16,7 +16,7 @@
 			{
 				"name": "START_DATE",
 				"types": ["time"],
-				"questions": ["Kad sākas atvaļinājums?", "Kad ir akadēmiskā atvaļinājuma sākums?", "No kura datuma?", "Kāds ir sākuma datums"]			
+				"questions": ["Kad sākas atvaļinājums?", "Kad ir akadēmiskā atvaļinājuma sākums?", "No kura datuma?", "Kāds ir sākuma datums?"]			
 			},
 			{
 				"name": "END_DATE",
