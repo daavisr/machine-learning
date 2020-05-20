@@ -1,7 +1,7 @@
 {
 	"values": [
 		{
-			"names": ["Andris Bērziņš", "A. Bērziņš", "Bērziņš", "Andris B.", "Dekāns"],
+			"names": ["Andris Bērziņš", "A. Bērziņš", "Bērziņš", "Andris B."],
 			"value": "Pr-Pk: 08:30 - 12:40"
 		},
 		{
@@ -19,6 +19,18 @@
 		{
 			"names": ["Rektors", "Imants Dimants", "Rektorāts", "LU Rektorāts", "LU Rektors"],
 			"value": "Pr-Pk: 06:30 - 14:40"
+		},
+		{
+			"names": ["Guntis Arnicāns", "Arnicāns", "Dekāns"],
+			"value": "Pieņemšanas laiks: trešdien 9:00 – 10:00\nStudentu konsultāciju laiks: otrdien 15:30 – 17:00"
+		},
+		{
+			"names": ["Ārija Sproģe", "Ārija", "Sproģe", "Metodiķe"],
+			"value": "p. 9:30 – 11:30\no. 9:30 – 11:30\nt. 9:30 – 11:30\nc. 14:00 – 16:30"
+		},
+		{
+			"names": ["Dāvis Raģels", "Raģels"],
+			"value": "Pr-Pk 09:00 - 18:00"
 		}
 	]
 }

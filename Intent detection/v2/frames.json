@@ -5,7 +5,7 @@
 			{
 				"name": "OBJECT",
 				"types": ["person", "organization"],
-				"questions": ["Kā sauc personu / iestādi?"]			
+				"questions": ["Kā sauc personu/iestādi?", "Kāds ir iestādes/personas vārds?"]			
 			}		
 		],
 		"action": "findWorkingHours"
@@ -16,12 +16,12 @@
 			{
 				"name": "START_DATE",
 				"types": ["time"],
-				"questions": ["Kad sākas atvaļinājums?"]			
+				"questions": ["Kad sākas atvaļinājums?", "Kad ir akadēmiskā atvaļinājuma sākums?", "No kura datuma?", "Kāds ir sākuma datums"]			
 			},
 			{
 				"name": "END_DATE",
 				"types": ["time"],
-				"questions": ["Kad beidzas atvaļinājums?"]			
+				"questions": ["Kad beidzas atvaļinājums?", "Līdz kuram datumam?", "Kad ir akadēmiskā atvaļinājuma beigas?", "Kāds ir beigu datums?"]			
 			}			
 		],
 		"action": "setSabbatical"

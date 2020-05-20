@@ -1,0 +1,17 @@
+﻿Esmu universitātes jautājumu sarunbots!
+
+Vari uzdot man jautājumus par tēmām:
+- universitātes kontaktinformācija;
+- pieteikšanās studijām;
+- pieteikumu rezultāti;
+- pieteikumu apstiprināšana;
+- nepieciešamie dokumenti reģistrācijai;
+- studiju līguma slēgšana;
+- dienesta viesnīcas;
+- pieteikšanās stipendijām;
+- stipendiju lielums;
+- mācību maksa.
+
+Māku veikt sekojošas darbības:
+- Noskaidrot iestāžu un personu darbalaikus;
+- Reģistrēt akadēmisko atvaļinājumu.
